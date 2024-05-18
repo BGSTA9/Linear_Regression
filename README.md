@@ -9,7 +9,7 @@ Characteristics
 	•	Type: Regression Analysis
 	•	Linear Model: Assumes a linear relationship between the dependent and independent variables
 	•	Equation:  $'y = \beta_0 + \beta_1x'$  for simple linear regression, where  y  is the dependent variable,  x  is the independent variable,  $\beta_0$  is the y-intercept, and  $\beta_1$  is the slope Equation:  $y = \beta_0 + \beta_1x$  for simple linear 
-	•	Assumptions:
+	•	Assumptions:  $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 	•	Linearity: The relationship between  x  and  y  is linear.
 	•	Independence: Observations are independent of each other.
 	•	Homoscedasticity: Constant variance of the errors.
