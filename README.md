@@ -8,7 +8,7 @@ Characteristics
 
 	•	Type: Regression Analysis
 	•	Linear Model: Assumes a linear relationship between the dependent and independent variables
-	•	Equation:  y = \beta_0 + \beta_1x  for simple linear regression, where  y  is the dependent variable,  x  is the independent variable,  \beta_0  is the y-intercept, and  \beta_1  is the slope Equation:  y = \beta_0 + \beta_1x  for simple linear 
+	•	Equation:  y = \beta_0 + \beta_1x  for simple linear regression, where  y  is the dependent variable,  x  is the independent variable,  $\beta_0$  is the y-intercept, and  $\beta_1$  is the slope Equation:  $y = \beta_0 + \beta_1x$  for simple linear 
 	•	Assumptions:
 	•	Linearity: The relationship between  x  and  y  is linear.
 	•	Independence: Observations are independent of each other.
@@ -19,6 +19,6 @@ How It Works
 
 	1.	Data Collection: Gather data for the dependent and independent variables.
 	2.	Model Specification: Define the linear regression model equation.
-	3.	Estimation of Parameters: Use the least squares method to estimate the parameters ( \beta_0  and  \beta_1 ).
+	3.	Estimation of Parameters: Use the least squares method to estimate the parameters ( $\beta_0$  and  $\beta_1$ ).
 	4.	Prediction: Use the estimated model to make predictions.
 	5.	Evaluation: Evaluate the model using metrics like R-squared, Mean Squared Error (MSE), and residual plots.
