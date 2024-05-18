@@ -4,13 +4,12 @@ Overview
 
 Linear Regression is a fundamental statistical method used to model the relationship between a dependent variable and one or more independent variables. It is widely used for predictive analysis and finding the linear relationship between variables.
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 Characteristics
-
+.
 	•	Type: Regression Analysis
-	•	Linear Model: Assumes a linear relationship between the dependent and independent variables
-	•	Equation:  $'y = \beta_0 + \beta_1x'$  for simple linear regression, where  y  is the dependent variable,  x  is the independent variable,  $\beta_0$  is the y-intercept, and  $\beta_1$  is the slope Equation:  $y = \beta_0 + \beta_1x$  for simple linear 
+ 	•	Linear Model: Assumes a linear relationship between the dependent and independent variables
+	•	Equation:  
 	•	Assumptions:  $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 	•	Linearity: The relationship between  x  and  y  is linear.
 	•	Independence: Observations are independent of each other.
@@ -18,7 +17,7 @@ Characteristics
 	•	Normality: The residuals (errors) of the model are normally distributed.
 
 How It Works
-
+.
 	1.	Data Collection: Gather data for the dependent and independent variables.
 	2.	Model Specification: Define the linear regression model equation.
 	3.	Estimation of Parameters: Use the least squares method to estimate the parameters ( $\beta_0$  and  $\beta_1$ ).
