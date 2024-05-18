@@ -4,6 +4,8 @@ Overview
 
 Linear Regression is a fundamental statistical method used to model the relationship between a dependent variable and one or more independent variables. It is widely used for predictive analysis and finding the linear relationship between variables.
 
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
 Characteristics
 
 	•	Type: Regression Analysis
