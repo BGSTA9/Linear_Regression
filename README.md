@@ -7,9 +7,9 @@ Linear Regression is a fundamental statistical method used to model the relation
 
 Characteristics
 
-Type: Regression Analysis
-Linear Model: Assumes a linear relationship between the dependent and independent variables
-Equation: $y = \beta_0 + \beta_1x$  for simple linear 
+Type: Regression Analysis.
+Linear Model: Assumes a linear relationship between the dependent and independent variables.
+Equation: $y = \beta_0 + \beta_1x$  for simple linear.
 Assumptions:
 
 1.	Linearity: The relationship between  x  and  y  is linear.
