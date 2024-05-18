@@ -6,20 +6,21 @@ Linear Regression is a fundamental statistical method used to model the relation
 
 
 Characteristics
-.
-	•	Type: Regression Analysis
- 	•	Linear Model: Assumes a linear relationship between the dependent and independent variables
-	•	Equation:  
-	•	Assumptions:  $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-	•	Linearity: The relationship between  x  and  y  is linear.
-	•	Independence: Observations are independent of each other.
-	•	Homoscedasticity: Constant variance of the errors.
-	•	Normality: The residuals (errors) of the model are normally distributed.
+
+•	Type: Regression Analysis
+•	Linear Model: Assumes a linear relationship between the dependent and independent variables
+•	Equation: $y = \beta_0 + \beta_1x$  for simple linear 
+•	
+Assumptions: 
+1-  Linearity: The relationship between  x  and  y  is linear.
+2 - Independence: Observations are independent of each other.
+3 - Homoscedasticity: Constant variance of the errors.
+4- Normality: The residuals (errors) of the model are normally distributed.
 
 How It Works
-.
-	1.	Data Collection: Gather data for the dependent and independent variables.
-	2.	Model Specification: Define the linear regression model equation.
-	3.	Estimation of Parameters: Use the least squares method to estimate the parameters ( $\beta_0$  and  $\beta_1$ ).
-	4.	Prediction: Use the estimated model to make predictions.
-	5.	Evaluation: Evaluate the model using metrics like R-squared, Mean Squared Error (MSE), and residual plots.
+
+1.	Data Collection: Gather data for the dependent and independent variables.
+2.	Model Specification: Define the linear regression model equation.
+3.	Estimation of Parameters: Use the least squares method to estimate the parameters ( $\beta_0$  and  $\beta_1$ ).
+4.	Prediction: Use the estimated model to make predictions.
+5.	Evaluation: Evaluate the model using metrics like R-squared, Mean Squared Error (MSE), and residual plots.
