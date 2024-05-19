@@ -4,6 +4,8 @@ Overview
 
 Linear Regression is a fundamental statistical method used to model the relationship between a dependent variable and one or more independent variables. It is widely used for predictive analysis and finding the linear relationship between variables.
 
+**This code sets up a linear regression model and animates the process of fitting this model incrementally with more data points. The animation shows the regression line updating in the first subplot and the slope’s rate of change in the second subplot.
+**
 
 Characteristics
 
