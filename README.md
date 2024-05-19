@@ -32,8 +32,8 @@ How It Works
 
 	•	Unit: R-squared is a unitless measure.
 	•	Explanation: R-squared, also known as the coefficient of determination, indicates how well the regression line fits the data. It ranges from 0 to 1, where:
-	•	0 means the model explains none of the variability of the response data around its mean.
-	•	1 means the model explains all the variability of the response data around its mean.
+	•	>	0 means the model explains none of the variability of the response data around its mean.
+	•	>	1 means the model explains all the variability of the response data around its mean.
 	•	Purpose: It tells us the proportion of the variance in the dependent variable (y) that is predictable from the independent variable (x). In simpler terms, it measures how well the model’s predictions match the actual data.
 
 5.2.	Mean Squared Error (MSE)
