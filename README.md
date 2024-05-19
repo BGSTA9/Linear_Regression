@@ -32,3 +32,19 @@ How It Works
 	•	0 means the model explains none of the variability of the response data around its mean.
 	•	1 means the model explains all the variability of the response data around its mean.
 	•	Purpose: It tells us the proportion of the variance in the dependent variable (y) that is predictable from the independent variable (x). In simpler terms, it measures how well the model’s predictions match the actual data.
+5.2.	Mean Squared Error (MSE)
+
+	•	Unit: The unit of MSE is the square of the unit of the dependent variable (y). For example, if y is measured in meters, MSE will be in square meters.
+	•	Explanation: MSE measures the average of the squares of the errors (the differences between the actual and predicted values). A lower MSE indicates a better fit of the model.
+	•	Purpose: It quantifies the difference between the observed actual outcomes and the outcomes predicted by the model. It gives an idea of the overall error of the model in making predictions.
+5.3.	Residuals
+
+	•	Unit: The unit of residuals is the same as the unit of the dependent variable (y).
+	•	Explanation: Residuals are the differences between the observed actual values and the values predicted by the model. Each data point has a corresponding residual.
+	•	Purpose: Residuals help in diagnosing the fit of the model. By plotting residuals, we can see if there are any patterns (which might indicate problems with the model) or if they are randomly distributed (which is desirable and indicates a good fit).
+**Summary of What They Are For:
+**
+	•	R-squared: Shows how well the model explains the variability of the data.
+	•	MSE: Measures the average squared difference between actual and predicted values, giving an overall sense of model accuracy.
+	•	Residuals: Help in assessing the model by showing the differences between actual and predicted values for individual data points.
+
