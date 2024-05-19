@@ -49,6 +49,7 @@ How It Works
 	•	Purpose: Residuals help in diagnosing the fit of the model. By plotting residuals, we can see if there are any patterns (which might indicate problems with the model) or if they are randomly distributed (which is desirable and indicates a good fit).
 **Summary of What They Are For:
 **
+
 	•	R-squared: Shows how well the model explains the variability of the data.
 	•	MSE: Measures the average squared difference between actual and predicted values, giving an overall sense of model accuracy.
 	•	Residuals: Help in assessing the model by showing the differences between actual and predicted values for individual data points.
