@@ -25,3 +25,10 @@ How It Works
 3.	Estimation of Parameters: Use the least squares method to estimate the parameters ( $\beta_0$  and  $\beta_1$ ).
 4.	Prediction: Use the estimated model to make predictions.
 5.	Evaluation: Evaluate the model using metrics like R-squared, Mean Squared Error (MSE), and residual plots.
+5.1.	R-squared (R²)
+
+	•	Unit: R-squared is a unitless measure.
+	•	Explanation: R-squared, also known as the coefficient of determination, indicates how well the regression line fits the data. It ranges from 0 to 1, where:
+	•	0 means the model explains none of the variability of the response data around its mean.
+	•	1 means the model explains all the variability of the response data around its mean.
+	•	Purpose: It tells us the proportion of the variance in the dependent variable (y) that is predictable from the independent variable (x). In simpler terms, it measures how well the model’s predictions match the actual data.
